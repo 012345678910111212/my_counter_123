@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "420926725940",
+    "project_id": "streaming-c1e8f",
+    "storage_bucket": "streaming-c1e8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420926725940:android:5562055c11e474eec18f61",
+        "android_client_info": {
+          "package_name": "com.example.churchapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420926725940-8ltq8iq33tjuacgppdbt7t8h7qg7ejgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWNMAwLbjJ0EeqFrFOxODTWQUo-FpSbS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420926725940-8ltq8iq33tjuacgppdbt7t8h7qg7ejgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
